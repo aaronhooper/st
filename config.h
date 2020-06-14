@@ -7,6 +7,7 @@
  */
 static char *font = "Ubuntu Mono Nerd Font:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 15;
+float alpha = 0.8;
 
 /*
  * What program is execed by st depends of these precedence rules:
